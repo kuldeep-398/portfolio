@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/kuldeep-398",
   resume:
-    "https://drive.google.com/file/d/1UKIzJww6luz8X7iJ0KkmSHsrxtp1EdLr/view?usp=sharing",
+    "https://drive.google.com/file/d/1MGMk4977sLdzDu6i97DPk1ToWyM6x73G/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/kuldeep-singh-1298b51ba/",
   insta: "https://www.instagram.com/kuldeep_singh_8097/",
 };
